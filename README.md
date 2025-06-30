@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Yunbo, I am a graduated Cybersecurity engineer based in Paris, and I am interested in all software engineering and data engineering domains.
+
+- 🔭 I’m currently looking for a new position as a software engineer or data engineer
+- 🌱 I can speak Chinese, English and French (ongoing)
+
 <!--
 **yunbo-z/yunbo-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

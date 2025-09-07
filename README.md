@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-My name is Yunbo, I am a graduated Cybersecurity engineer based in Paris, and I am interested in all software engineering and data engineering domains.
+My name is Yunbo, I am a full-stack developer based in Paris, and I am interested in all software engineering and data engineering domains.
 
-- 🔭 I’m currently looking for a new position as a software engineer or data engineer
 - 🌱 I can speak Chinese, English and French (ongoing)
 
 <!--
